@@ -1,0 +1,46 @@
+* {
+  outline: 1px solid red;
+}
+:root {
+  --bg-prpl: #800080;
+  --bg-orange: orange;
+  --bg-pink: rgb(207, 70, 93);
+}
+/* ---------Nav bar ----------------------- */
+nav {
+  background-color: transparent;
+}
+
+/* ---------Middle 3 card deck -------------*/
+#deckL {
+  /*This sets the card images to rounded- need to adjust--*/
+  border-radius: 25px;
+  background: url(paper.gif);
+  background-position: left top;
+  background-repeat: repeat;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+#deckM {
+  /*This sets the card images to rounded- need to adjust--*/
+  border-radius: 25px;
+  background: url(paper.gif);
+  background-position: left top;
+  background-repeat: repeat;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+#deckR {
+  /*This sets the card images to rounded- need to adjust--*/
+  border-radius: 25px;
+  background: url(paper.gif);
+  background-position: left top;
+  background-repeat: repeat;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+
+/* ------------------------------------------------ */
